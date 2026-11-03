@@ -44,6 +44,4 @@ This repository serves as a complete example of cleanly separating UI, database,
 * `ReportActivity.kt` / `ReportDetailsActivity.kt`: Handles fetching historical data from the DB and the CSV export logic.
 * `Adapters`: Connects the data models to the XML `RecyclerViews`.
 
-## 🤝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
